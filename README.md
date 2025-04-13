@@ -1,6 +1,6 @@
 ### Hi there, I'm Wesley - aka Howie! 👋 
 
-## I'm a Husband, Dog Dad, Developer, Sabbath Keeper and Code Tutor!!
+## I'm a Husband, Developer, Sabbath Keeper and Code Tutor!!
 
 - 🔭 I just finished my development bootcamp: [devCodeCamp!][course]!
 - 🌱 I’m currently learning as much as possible! 🤣
